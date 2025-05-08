@@ -12,7 +12,7 @@ try:
     import requests
     import random
 except Exception as e:
-    print(f'Modules of the python library required for RedTiger are not installed, make sure you have correctly installed python and have launched the "Setup.py" file which will install all the necessary modules.')
+    print(f'Modules of the python library required for BlueFox are not installed, make sure you have correctly installed python and have launched the "Setup.py" file which will install all the necessary modules.')
     input(f'Error: {e}')
 
 color_webhook = 0xa80505
@@ -94,11 +94,11 @@ def Clear():
 
 def Reset():
     if os_name == "Windows":
-        file = ['python', os.path.join(tool_path, "RedTiger.py")]
+        file = ['python', os.path.join(tool_path, "Ocarina.py")]
         subprocess.run(file)
 
     elif os_name == "Linux":
-        file = ['python3', os.path.join(tool_path, "RedTiger.py")]
+        file = ['python3', os.path.join(tool_path, "Ocarina.py")]
         subprocess.run(file)
 
 def StartProgram(program):
