@@ -23,7 +23,7 @@ option_10 = "Soon"
 
 option_11 = "Dox-Create"
 option_12 = "Dox-Tracker"
-option_13 = "Get-Image-Exif"
+option_13 = "Soon"
 option_14 = "Google-Dorking"
 option_15 = "Username-Tracker"
 option_16 = "Email-Tracker"
@@ -45,20 +45,20 @@ option_30 = "Soon"
 
 option_31 = "Virus-Builder"
 
-option_32 = "Python-Obfuscator-(Premium)"
-option_33 = "Discord-Rat-(Premium)"
-option_34 = "Stresser (Premium)"
-option_35 = "Anonymization-Software"
+option_32 = "Soon"
+option_33 = "Soon"
+option_34 = "Soon"
+option_35 = "Soon"
 option_36 = "Soon"
 option_37 = "Soon"
 option_38 = "Soon"
 option_39 = "Soon"
 option_40 = "Soon"
 
-option_41 = "Roblox-Cookie-Login"
-option_42 = "Roblox-Cookie-Info"
-option_43 = "Roblox-Id-Info"
-option_44 = "Roblox-User-Info"
+option_41 = "Soon"
+option_42 = "Soon"
+option_43 = "Soon"
+option_44 = "Soon"
 option_45 = "Soon"
 option_46 = "Soon"
 option_47 = "Soon"
@@ -101,100 +101,100 @@ option_back = "Back"
 option_site = "Site"
 option_info = "Info"
 
-option_01_txt = f"{red}[{white}01{red}]{white} " + option_01.ljust(30)[:30].replace("-", " ")
-option_02_txt = f"{red}[{white}02{red}]{white} " + option_02.ljust(30)[:30].replace("-", " ")
-option_03_txt = f"{red}[{white}03{red}]{white} " + option_03.ljust(30)[:30].replace("-", " ")
-option_04_txt = f"{red}[{white}04{red}]{white} " + option_04.ljust(30)[:30].replace("-", " ")
-option_05_txt = f"{red}[{white}05{red}]{white} " + option_05.ljust(30)[:30].replace("-", " ")
-option_06_txt = f"{red}[{white}06{red}]{white} " + option_06.ljust(30)[:30].replace("-", " ")
-option_07_txt = f"{red}[{white}07{red}]{white} " + option_07.ljust(30)[:30].replace("-", " ")
-option_08_txt = f"{red}[{white}08{red}]{white} " + option_08.ljust(30)[:30].replace("-", " ")
-option_09_txt = f"{red}[{white}09{red}]{white} " + option_09.ljust(30)[:30].replace("-", " ")
-option_10_txt = f"{red}[{white}10{red}]{white} " + option_10.ljust(30)[:30].replace("-", " ")
+option_01_txt = f"{blue}[{white}01{blue}]{white} " + option_01.ljust(30)[:30].replace("-", " ")
+option_02_txt = f"{blue}[{white}02{blue}]{white} " + option_02.ljust(30)[:30].replace("-", " ")
+option_03_txt = f"{blue}[{white}03{blue}]{white} " + option_03.ljust(30)[:30].replace("-", " ")
+option_04_txt = f"{blue}[{white}04{blue}]{white} " + option_04.ljust(30)[:30].replace("-", " ")
+option_05_txt = f"{blue}[{white}05{blue}]{white} " + option_05.ljust(30)[:30].replace("-", " ")
+option_06_txt = f"{blue}[{white}06{blue}]{white} " + option_06.ljust(30)[:30].replace("-", " ")
+option_07_txt = f"{blue}[{white}07{blue}]{white} " + option_07.ljust(30)[:30].replace("-", " ")
+option_08_txt = f"{blue}[{white}08{blue}]{white} " + option_08.ljust(30)[:30].replace("-", " ")
+option_09_txt = f"{blue}[{white}09{blue}]{white} " + option_09.ljust(30)[:30].replace("-", " ")
+option_10_txt = f"{blue}[{white}10{blue}]{white} " + option_10.ljust(30)[:30].replace("-", " ")
 
-option_11_txt = f"{red}[{white}11{red}]{white} " + option_11.ljust(30)[:30].replace("-", " ")
-option_12_txt = f"{red}[{white}12{red}]{white} " + option_12.ljust(30)[:30].replace("-", " ")
-option_13_txt = f"{red}[{white}13{red}]{white} " + option_13.ljust(30)[:30].replace("-", " ")
-option_14_txt = f"{red}[{white}14{red}]{white} " + option_14.ljust(30)[:30].replace("-", " ")
-option_15_txt = f"{red}[{white}15{red}]{white} " + option_15.ljust(30)[:30].replace("-", " ")
-option_16_txt = f"{red}[{white}16{red}]{white} " + option_16.ljust(30)[:30].replace("-", " ")
-option_17_txt = f"{red}[{white}17{red}]{white} " + option_17.ljust(30)[:30].replace("-", " ")
-option_18_txt = f"{red}[{white}18{red}]{white} " + option_18.ljust(30)[:30].replace("-", " ")
-option_19_txt = f"{red}[{white}19{red}]{white} " + option_19.ljust(30)[:30].replace("-", " ")
-option_20_txt = f"{red}[{white}20{red}]{white} " + option_20.ljust(30)[:30].replace("-", " ")
+option_11_txt = f"{blue}[{white}11{blue}]{white} " + option_11.ljust(30)[:30].replace("-", " ")
+option_12_txt = f"{blue}[{white}12{blue}]{white} " + option_12.ljust(30)[:30].replace("-", " ")
+option_13_txt = f"{blue}[{white}13{blue}]{white} " + option_13.ljust(30)[:30].replace("-", " ")
+option_14_txt = f"{blue}[{white}14{blue}]{white} " + option_14.ljust(30)[:30].replace("-", " ")
+option_15_txt = f"{blue}[{white}15{blue}]{white} " + option_15.ljust(30)[:30].replace("-", " ")
+option_16_txt = f"{blue}[{white}16{blue}]{white} " + option_16.ljust(30)[:30].replace("-", " ")
+option_17_txt = f"{blue}[{white}17{blue}]{white} " + option_17.ljust(30)[:30].replace("-", " ")
+option_18_txt = f"{blue}[{white}18{blue}]{white} " + option_18.ljust(30)[:30].replace("-", " ")
+option_19_txt = f"{blue}[{white}19{blue}]{white} " + option_19.ljust(30)[:30].replace("-", " ")
+option_20_txt = f"{blue}[{white}20{blue}]{white} " + option_20.ljust(30)[:30].replace("-", " ")
 
-option_21_txt = f"{red}[{white}21{red}]{white} " + option_21.ljust(30)[:30].replace("-", " ")
-option_22_txt = f"{red}[{white}22{red}]{white} " + option_22.ljust(30)[:30].replace("-", " ")
-option_23_txt = f"{red}[{white}23{red}]{white} " + option_23.ljust(30)[:30].replace("-", " ")
-option_24_txt = f"{red}[{white}24{red}]{white} " + option_24.ljust(30)[:30].replace("-", " ")
-option_25_txt = f"{red}[{white}25{red}]{white} " + option_25.ljust(30)[:30].replace("-", " ")
-option_26_txt = f"{red}[{white}26{red}]{white} " + option_26.ljust(30)[:30].replace("-", " ")
-option_27_txt = f"{red}[{white}27{red}]{white} " + option_27.ljust(30)[:30].replace("-", " ")
-option_28_txt = f"{red}[{white}28{red}]{white} " + option_28.ljust(30)[:30].replace("-", " ")
-option_29_txt = f"{red}[{white}29{red}]{white} " + option_29.ljust(30)[:30].replace("-", " ")
-option_30_txt = f"{red}[{white}30{red}]{white} " + option_30.ljust(30)[:30].replace("-", " ")
+option_21_txt = f"{blue}[{white}21{blue}]{white} " + option_21.ljust(30)[:30].replace("-", " ")
+option_22_txt = f"{blue}[{white}22{blue}]{white} " + option_22.ljust(30)[:30].replace("-", " ")
+option_23_txt = f"{blue}[{white}23{blue}]{white} " + option_23.ljust(30)[:30].replace("-", " ")
+option_24_txt = f"{blue}[{white}24{blue}]{white} " + option_24.ljust(30)[:30].replace("-", " ")
+option_25_txt = f"{blue}[{white}25{blue}]{white} " + option_25.ljust(30)[:30].replace("-", " ")
+option_26_txt = f"{blue}[{white}26{blue}]{white} " + option_26.ljust(30)[:30].replace("-", " ")
+option_27_txt = f"{blue}[{white}27{blue}]{white} " + option_27.ljust(30)[:30].replace("-", " ")
+option_28_txt = f"{blue}[{white}28{blue}]{white} " + option_28.ljust(30)[:30].replace("-", " ")
+option_29_txt = f"{blue}[{white}29{blue}]{white} " + option_29.ljust(30)[:30].replace("-", " ")
+option_30_txt = f"{blue}[{white}30{blue}]{white} " + option_30.ljust(30)[:30].replace("-", " ")
 
-option_31_txt = f"{red}[{white}31{red}]{white} " + option_31.ljust(30)[:30].replace("-", " ")
-option_32_txt = f"{red}[{white}32{red}]{white} " + option_32.ljust(30)[:30].replace("-", " ")
-option_33_txt = f"{red}[{white}33{red}]{white} " + option_33.ljust(30)[:30].replace("-", " ")
-option_34_txt = f"{red}[{white}34{red}]{white} " + option_34.ljust(30)[:30].replace("-", " ")
-option_35_txt = f"{red}[{white}35{red}]{white} " + option_35.ljust(30)[:30].replace("-", " ")
-option_36_txt = f"{red}[{white}36{red}]{white} " + option_36.ljust(30)[:30].replace("-", " ")
-option_37_txt = f"{red}[{white}37{red}]{white} " + option_37.ljust(30)[:30].replace("-", " ")
-option_38_txt = f"{red}[{white}38{red}]{white} " + option_38.ljust(30)[:30].replace("-", " ")
-option_39_txt = f"{red}[{white}39{red}]{white} " + option_39.ljust(30)[:30].replace("-", " ")
-option_40_txt = f"{red}[{white}40{red}]{white} " + option_40.ljust(30)[:30].replace("-", " ")
+option_31_txt = f"{blue}[{white}31{blue}]{white} " + option_31.ljust(30)[:30].replace("-", " ")
+option_32_txt = f"{blue}[{white}32{blue}]{white} " + option_32.ljust(30)[:30].replace("-", " ")
+option_33_txt = f"{blue}[{white}33{blue}]{white} " + option_33.ljust(30)[:30].replace("-", " ")
+option_34_txt = f"{blue}[{white}34{blue}]{white} " + option_34.ljust(30)[:30].replace("-", " ")
+option_35_txt = f"{blue}[{white}35{blue}]{white} " + option_35.ljust(30)[:30].replace("-", " ")
+option_36_txt = f"{blue}[{white}36{blue}]{white} " + option_36.ljust(30)[:30].replace("-", " ")
+option_37_txt = f"{blue}[{white}37{blue}]{white} " + option_37.ljust(30)[:30].replace("-", " ")
+option_38_txt = f"{blue}[{white}38{blue}]{white} " + option_38.ljust(30)[:30].replace("-", " ")
+option_39_txt = f"{blue}[{white}39{blue}]{white} " + option_39.ljust(30)[:30].replace("-", " ")
+option_40_txt = f"{blue}[{white}40{blue}]{white} " + option_40.ljust(30)[:30].replace("-", " ")
 
-option_41_txt = f"{red}[{white}41{red}]{white} " + option_41.ljust(30)[:30].replace("-", " ")
-option_42_txt = f"{red}[{white}42{red}]{white} " + option_42.ljust(30)[:30].replace("-", " ")
-option_43_txt = f"{red}[{white}43{red}]{white} " + option_43.ljust(30)[:30].replace("-", " ")
-option_44_txt = f"{red}[{white}44{red}]{white} " + option_44.ljust(30)[:30].replace("-", " ")
-option_45_txt = f"{red}[{white}45{red}]{white} " + option_45.ljust(30)[:30].replace("-", " ")
-option_46_txt = f"{red}[{white}46{red}]{white} " + option_46.ljust(30)[:30].replace("-", " ")
-option_47_txt = f"{red}[{white}47{red}]{white} " + option_47.ljust(30)[:30].replace("-", " ")
-option_48_txt = f"{red}[{white}48{red}]{white} " + option_48.ljust(30)[:30].replace("-", " ")
-option_49_txt = f"{red}[{white}49{red}]{white} " + option_49.ljust(30)[:30].replace("-", " ")
-option_50_txt = f"{red}[{white}50{red}]{white} " + option_50.ljust(30)[:30].replace("-", " ")
+option_41_txt = f"{blue}[{white}41{blue}]{white} " + option_41.ljust(30)[:30].replace("-", " ")
+option_42_txt = f"{blue}[{white}42{blue}]{white} " + option_42.ljust(30)[:30].replace("-", " ")
+option_43_txt = f"{blue}[{white}43{blue}]{white} " + option_43.ljust(30)[:30].replace("-", " ")
+option_44_txt = f"{blue}[{white}44{blue}]{white} " + option_44.ljust(30)[:30].replace("-", " ")
+option_45_txt = f"{blue}[{white}45{blue}]{white} " + option_45.ljust(30)[:30].replace("-", " ")
+option_46_txt = f"{blue}[{white}46{blue}]{white} " + option_46.ljust(30)[:30].replace("-", " ")
+option_47_txt = f"{blue}[{white}47{blue}]{white} " + option_47.ljust(30)[:30].replace("-", " ")
+option_48_txt = f"{blue}[{white}48{blue}]{white} " + option_48.ljust(30)[:30].replace("-", " ")
+option_49_txt = f"{blue}[{white}49{blue}]{white} " + option_49.ljust(30)[:30].replace("-", " ")
+option_50_txt = f"{blue}[{white}50{blue}]{white} " + option_50.ljust(30)[:30].replace("-", " ")
 
-option_51_txt = f"{red}[{white}51{red}]{white} " + option_51.ljust(30)[:30].replace("-", " ")
-option_52_txt = f"{red}[{white}52{red}]{white} " + option_52.ljust(30)[:30].replace("-", " ")
-option_53_txt = f"{red}[{white}53{red}]{white} " + option_53.ljust(30)[:30].replace("-", " ")
-option_54_txt = f"{red}[{white}54{red}]{white} " + option_54.ljust(30)[:30].replace("-", " ")
-option_55_txt = f"{red}[{white}55{red}]{white} " + option_55.ljust(30)[:30].replace("-", " ")
-option_56_txt = f"{red}[{white}56{red}]{white} " + option_56.ljust(30)[:30].replace("-", " ")
-option_57_txt = f"{red}[{white}57{red}]{white} " + option_57.ljust(30)[:30].replace("-", " ")
-option_58_txt = f"{red}[{white}58{red}]{white} " + option_58.ljust(30)[:30].replace("-", " ")
-option_59_txt = f"{red}[{white}59{red}]{white} " + option_59.ljust(30)[:30].replace("-", " ")
-option_60_txt = f"{red}[{white}60{red}]{white} " + option_60.ljust(30)[:30].replace("-", " ")
+option_51_txt = f"{blue}[{white}51{blue}]{white} " + option_51.ljust(30)[:30].replace("-", " ")
+option_52_txt = f"{blue}[{white}52{blue}]{white} " + option_52.ljust(30)[:30].replace("-", " ")
+option_53_txt = f"{blue}[{white}53{blue}]{white} " + option_53.ljust(30)[:30].replace("-", " ")
+option_54_txt = f"{blue}[{white}54{blue}]{white} " + option_54.ljust(30)[:30].replace("-", " ")
+option_55_txt = f"{blue}[{white}55{blue}]{white} " + option_55.ljust(30)[:30].replace("-", " ")
+option_56_txt = f"{blue}[{white}56{blue}]{white} " + option_56.ljust(30)[:30].replace("-", " ")
+option_57_txt = f"{blue}[{white}57{blue}]{white} " + option_57.ljust(30)[:30].replace("-", " ")
+option_58_txt = f"{blue}[{white}58{blue}]{white} " + option_58.ljust(30)[:30].replace("-", " ")
+option_59_txt = f"{blue}[{white}59{blue}]{white} " + option_59.ljust(30)[:30].replace("-", " ")
+option_60_txt = f"{blue}[{white}60{blue}]{white} " + option_60.ljust(30)[:30].replace("-", " ")
 
-option_61_txt = f"{red}[{white}61{red}]{white} " + option_61.ljust(30)[:30].replace("-", " ")
-option_62_txt = f"{red}[{white}62{red}]{white} " + option_62.ljust(30)[:30].replace("-", " ")
-option_63_txt = f"{red}[{white}63{red}]{white} " + option_63.ljust(30)[:30].replace("-", " ")
-option_64_txt = f"{red}[{white}64{red}]{white} " + option_64.ljust(30)[:30].replace("-", " ")
-option_65_txt = f"{red}[{white}65{red}]{white} " + option_65.ljust(30)[:30].replace("-", " ")
-option_66_txt = f"{red}[{white}66{red}]{white} " + option_66.ljust(30)[:30].replace("-", " ")
-option_67_txt = f"{red}[{white}67{red}]{white} " + option_67.ljust(30)[:30].replace("-", " ")
-option_68_txt = f"{red}[{white}68{red}]{white} " + option_68.ljust(30)[:30].replace("-", " ")
-option_69_txt = f"{red}[{white}69{red}]{white} " + option_69.ljust(30)[:30].replace("-", " ")
-option_70_txt = f"{red}[{white}70{red}]{white} " + option_70.ljust(30)[:30].replace("-", " ")
+option_61_txt = f"{blue}[{white}61{blue}]{white} " + option_61.ljust(30)[:30].replace("-", " ")
+option_62_txt = f"{blue}[{white}62{blue}]{white} " + option_62.ljust(30)[:30].replace("-", " ")
+option_63_txt = f"{blue}[{white}63{blue}]{white} " + option_63.ljust(30)[:30].replace("-", " ")
+option_64_txt = f"{blue}[{white}64{blue}]{white} " + option_64.ljust(30)[:30].replace("-", " ")
+option_65_txt = f"{blue}[{white}65{blue}]{white} " + option_65.ljust(30)[:30].replace("-", " ")
+option_66_txt = f"{blue}[{white}66{blue}]{white} " + option_66.ljust(30)[:30].replace("-", " ")
+option_67_txt = f"{blue}[{white}67{blue}]{white} " + option_67.ljust(30)[:30].replace("-", " ")
+option_68_txt = f"{blue}[{white}68{blue}]{white} " + option_68.ljust(30)[:30].replace("-", " ")
+option_69_txt = f"{blue}[{white}69{blue}]{white} " + option_69.ljust(30)[:30].replace("-", " ")
+option_70_txt = f"{blue}[{white}70{blue}]{white} " + option_70.ljust(30)[:30].replace("-", " ")
 
-option_71_txt = f"{red}[{white}71{red}]{white} " + option_71.ljust(30)[:30].replace("-", " ")
-option_72_txt = f"{red}[{white}72{red}]{white} " + option_72.ljust(30)[:30].replace("-", " ")
-option_73_txt = f"{red}[{white}73{red}]{white} " + option_73.ljust(30)[:30].replace("-", " ")
-option_74_txt = f"{red}[{white}74{red}]{white} " + option_74.ljust(30)[:30].replace("-", " ")
-option_75_txt = f"{red}[{white}75{red}]{white} " + option_75.ljust(30)[:30].replace("-", " ")
-option_76_txt = f"{red}[{white}76{red}]{white} " + option_76.ljust(30)[:30].replace("-", " ")
-option_77_txt = f"{red}[{white}77{red}]{white} " + option_77.ljust(30)[:30].replace("-", " ")
-option_78_txt = f"{red}[{white}78{red}]{white} " + option_78.ljust(30)[:30].replace("-", " ")
-option_79_txt = f"{red}[{white}79{red}]{white} " + option_79.ljust(30)[:30].replace("-", " ")
+option_71_txt = f"{blue}[{white}71{blue}]{white} " + option_71.ljust(30)[:30].replace("-", " ")
+option_72_txt = f"{blue}[{white}72{blue}]{white} " + option_72.ljust(30)[:30].replace("-", " ")
+option_73_txt = f"{blue}[{white}73{blue}]{white} " + option_73.ljust(30)[:30].replace("-", " ")
+option_74_txt = f"{blue}[{white}74{blue}]{white} " + option_74.ljust(30)[:30].replace("-", " ")
+option_75_txt = f"{blue}[{white}75{blue}]{white} " + option_75.ljust(30)[:30].replace("-", " ")
+option_76_txt = f"{blue}[{white}76{blue}]{white} " + option_76.ljust(30)[:30].replace("-", " ")
+option_77_txt = f"{blue}[{white}77{blue}]{white} " + option_77.ljust(30)[:30].replace("-", " ")
+option_78_txt = f"{blue}[{white}78{blue}]{white} " + option_78.ljust(30)[:30].replace("-", " ")
+option_79_txt = f"{blue}[{white}79{blue}]{white} " + option_79.ljust(30)[:30].replace("-", " ")
 
-option_back_txt = option_back + f" {red}[{white}B{red}]{white}"
-option_next_txt = option_next + f" {red}[{white}N{red}]{white}"
-option_site_txt = f"{red}[{white}S{red}]{white} " + option_site
-option_info_txt =  f"{red}[{white}I{red}]{white} " + option_info
+option_back_txt = option_back + f" {blue}[{white}B{blue}]{white}"
+option_next_txt = option_next + f" {blue}[{white}N{blue}]{white}"
+option_site_txt = f"{blue}[{white}S{blue}]{white} " + option_site
+option_info_txt =  f"{blue}[{white}I{blue}]{white} " + option_info
 
-menu1 = f""" ┌─ {option_info_txt}                                                                                               {option_next_txt} ─┐
- ├─ {option_site_txt} ┌─────────────────┐                        ┌───────┐                           ┌───────────┐            │
+menu1 = f""" ┌                                                                                                         {option_next_txt} ─┐
+ ├─ {option_info_txt} ┌─────────────────┐                        ┌───────┐                           ┌───────────┐            │
  └─┬─────────┤ Network Scanner ├─────────┬──────────────┤ Osint ├──────────────┬────────────┤ Utilities ├────────────┴─
    │         └─────────────────┘         │              └───────┘              │            └───────────┘
    ├─ {option_01_txt                    }├─ {option_11_txt                    }├─ {option_21_txt}
@@ -249,8 +249,8 @@ def Update():
       if new_version != version_tool:
          webbrowser.open(f"https://{github_tool}")
          colorama.init()
-         input(f"{BEFORE + current_time_hour() + AFTER} {INFO} Please install the new version of the tool: {white + version_tool + red} -> {white + new_version} ")
-         popup_version = f"{red}New Version: {white + version_tool + red} -> {white + new_version}"
+         input(f"{BEFORE + current_time_hour() + AFTER} {INFO} Please install the new version of the tool: {white + version_tool + blue} -> {white + new_version} ")
+         popup_version = f"{blue}New Version: {white + version_tool + blue} -> {white + new_version}"
          colorama.deinit()
          Clear()
    except: pass
@@ -272,17 +272,18 @@ def Menu():
       menu_number = "1"
 
    banner = f"""{popup_version}                                                                                      
-                             ██▀███  ▓█████ ▓█████▄    ▄▄▄█████▓ ██▓  ▄████ ▓█████  ██▀███
-                            ▓██ ▒ ██▒▓█   ▀ ▒██▀ ██▌   ▓  ██▒ ▓▒▓██▒ ██▒ ▀█▒▓█   ▀ ▓██ ▒ ██▒
-                            ▓██ ░▄█ ▒▒███   ░██   █▌   ▒ ▓██░ ▒░▒██▒▒██░▄▄▄░▒███   ▓██ ░▄█ ▒
-                            ▒██▀▀█▄  ▒▓█  ▄ ░▓█▄   ▌   ░ ▓██▓ ░ ░██░░▓█  ██▓▒▓█  ▄ ▒██▀▀█▄
-                            ░██▓ ▒██▒░▒████▒░▒████▓      ▒██▒ ░ ░██░░▒▓███▀▒░▒████▒░██▓ ▒██▒
-                            ░ ▒▓ ░▒▓░░░ ▒░ ░ ▒▒▓  ▒      ▒ ░░   ░▓   ░▒   ▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
-                              ░▒ ░ ▒░ ░ ░  ░ ░ ▒  ▒        ░     ▒ ░  ░   ░  ░ ░  ░  ░▒ ░ ▒░
-                             ░░   ░    ░    ░ ░  ░      ░       ▒ ░░ ░   ░    ░     ░░   ░
-                              ░        ░  ░   ░                 ░        ░    ░  ░   ░      
 
-                                           {white}{github_tool}
+    ▒█████  ▄████▄  ▄▄▄      ██▀███  ██▓███▄    █ ▄▄▄          ███▄    █ █    ██ ██ ▄█▓█████ ██▀███  
+    ▒██▒  ██▒██▀ ▀█ ▒████▄   ▓██ ▒ ██▓██▒██ ▀█   █▒████▄        ██ ▀█   █ ██  ▓██▒██▄█▒▓█   ▀▓██ ▒ ██▒
+    ▒██░  ██▒▓█    ▄▒██  ▀█▄ ▓██ ░▄█ ▒██▓██  ▀█ ██▒██  ▀█▄     ▓██  ▀█ ██▓██  ▒██▓███▄░▒███  ▓██ ░▄█ ▒
+    ▒██   ██▒▓▓▄ ▄██░██▄▄▄▄██▒██▀▀█▄ ░██▓██▒  ▐▌██░██▄▄▄▄██    ▓██▒  ▐▌██▓▓█  ░██▓██ █▄▒▓█  ▄▒██▀▀█▄  
+    ░ ████▓▒▒ ▓███▀ ░▓█   ▓██░██▓ ▒██░██▒██░   ▓██░▓█   ▓██▒   ▒██░   ▓██▒▒█████▓▒██▒ █░▒████░██▓ ▒██▒
+    ░ ▒░▒░▒░░ ░▒ ▒  ░▒▒   ▓▒█░ ▒▓ ░▒▓░▓ ░ ▒░   ▒ ▒ ▒▒   ▓▒█░   ░ ▒░   ▒ ▒░▒▓▒ ▒ ▒▒ ▒▒ ▓░░ ▒░ ░ ▒▓ ░▒▓░
+    ░ ▒ ▒░  ░  ▒    ▒   ▒▒ ░ ░▒ ░ ▒░▒ ░ ░░   ░ ▒░ ▒   ▒▒ ░   ░ ░░   ░ ▒░░▒░ ░ ░░ ░▒ ▒░░ ░  ░ ░▒ ░ ▒░
+    ░ ░ ░ ▒ ░         ░   ▒    ░░   ░ ▒ ░  ░   ░ ░  ░   ▒         ░   ░ ░ ░░░ ░ ░░ ░░ ░   ░    ░░   ░ 
+        ░ ░ ░ ░           ░  ░  ░     ░          ░      ░  ░            ░   ░    ░  ░     ░  ░  ░     
+            ░                                                                                                                                                       
+                                        {white}{github_tool}
 {menu}"""
    return banner, menu_number
 
@@ -295,7 +296,7 @@ while True:
       Title(f"Menu {menu_number}")
       Slow(MainColor(banner))
 
-      choice = input(MainColor(f""" ┌──({white}{username_pc}@redtiger)─{red}[{white}~/{os_name}/Menu-{menu_number}]
+      choice = input(MainColor(f""" ┌──({white}{username_pc}@ocarina)─{blue}[{white}~/{os_name}/Menu-{menu_number}]
  └─{white}$ {reset}"""))
 
       if choice in ['N', 'n', 'NEXT', 'Next', 'next']:
@@ -313,27 +314,23 @@ while True:
       elif choice in ['I', 'i', 'INFO', 'Info', 'info']:
             StartProgram(f"{option_info}.py")
             continue
-
-      elif choice in ['S', 's', 'SITE', 'Site', 'site']:
-            StartProgram(f"{option_site}.py")
-            continue
       
       elif choice == '31':
          if os_name == "Linux":
             print(f"\n{BEFORE + current_time_hour() + AFTER} {INFO} The builder virus is only compatible with Windows, under Linux it can encounter big problems.")
-            messagebox.showinfo(f"RedTiger {version_tool} - Virus Builder", "The builder virus is only compatible with Windows, under Linux it can encounter big problems.")
+            messagebox.showinfo(f"Ocarina' {version_tool} - Virus Builder", "The builder virus is only compatible with Windows, under Linux it can encounter big problems.")
 
          print(f"\n{BEFORE + current_time_hour() + AFTER} {INFO} It is important to disable your antivirus (Real-time Protection) before building, so that no files are deleted.")
-         messagebox.showinfo(f"RedTiger {version_tool} - Virus Builder", "It is important to disable your antivirus (Real-time Protection) before building, so that no files are deleted.")
+         messagebox.showinfo(f"Ocarina' {version_tool} - Virus Builder", "It is important to disable your antivirus (Real-time Protection) before building, so that no files are deleted.")
          try:
-            zip_file_path = os.path.join(tool_path, "Program", "FileDetectedByAntivirus", "Password(redtiger).zip")
+            zip_file_path = os.path.join(tool_path, "Program", "FileDetectedByAntivirus", "Password(Ocarina').zip")
             file_path = os.path.join(tool_path, "Program", "FileDetectedByAntivirus", "VirusBuilderOptions.py")
             output = os.path.join(tool_path, "Program", "FileDetectedByAntivirus")
             if not os.path.exists(file_path):
                if os.path.exists(zip_file_path):
-                  print(f"{BEFORE + current_time_hour() + AFTER} {INFO} Decompression of the encrypted file: {white}Program\\FileDetectedByAntivirus\\Password(redtiger).zip")
+                  print(f"{BEFORE + current_time_hour() + AFTER} {INFO} Decompression of the encrypted file: {white}Program\\FileDetectedByAntivirus\\Password(Ocarina').zip")
                   with pyzipper.AESZipFile(zip_file_path) as zf:
-                     zf.pwd = b'redtiger'
+                     zf.pwd = b'Ocarina'
                      zf.extractall(output)
                   time.sleep(3)
                else:
