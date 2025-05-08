@@ -1,0 +1,13 @@
+
+name_tool       =  "Ocarina Nuker"
+type_tool       =  "Nuke-Tools"
+version_tool    =  "1.0.0"
+coding_tool     =  "Python 3"
+language_tool   =  "EN"
+creator         =  "MrOlim7"
+platform        =  "Windows 10/11"
+github_tool     =  "github.com/MrOlim7/Ocarina-Nuker"
+url_config      =  "https://raw.githubusercontent.com/MrOlim7/Ocarina-Nuker/refs/heads/main/Programs/Config/Config.py"
+url_downloads   =  "https://github.com/MrOlim7/Ocarina-Nuker/archive/refs/heads/main.zip"
+license         =  "https://github.com/MrOlim7/Ocarina-Nuker/blob/main/LICENSE"
+copyright       =  "Copyright (c) 2025 OlimDev"
