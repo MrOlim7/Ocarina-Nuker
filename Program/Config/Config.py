@@ -1,7 +1,7 @@
 
 name_tool       =  "Ocarina Nuker"
 type_tool       =  "Nuke-Tools"
-version_tool    =  "1.0.0"
+version_tool    =  "1.2"
 coding_tool     =  "Python 3"
 language_tool   =  "EN"
 creator         =  "MrOlim7"
